@@ -1,6 +1,5 @@
-# IMAGE PROCESSING PROJECT
 import sys
-import os  # to grab the path
+import os                                     # to grab the file/folder path
 from PIL import Image
 
 # step1: arguments to hold current dir and  new dir for output  img holder if exists or not
